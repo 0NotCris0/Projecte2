@@ -1,8 +1,5 @@
 # 🌍 Benvinguts a EverPia Projecte 2
 
-![Banner EverPia](ruta/de/la/imatge.png)
-> *Substitueix aquesta ruta per la teva imatge o logo (ex: `/assets/banner.png` o una URL d'imatge).*
-
 **EverPia** és una consultora IT nascuda de la passió per la informàtica i l’educació.  
 La seva missió és resoldre reptes tecnològics reals ajudant persones i organitzacions a créixer.
 
