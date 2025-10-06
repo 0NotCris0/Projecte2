@@ -11,6 +11,9 @@ Davant les constants incidències amb el **subministrament elèctric** a la zona
 
 L’empresa ha contactat amb **EverPia**, on esteu realitzant la vostra estada, i el vostre responsable us ha encarregat fer l’**estudi i tria del SAI adequat**.
 
+![Chicos encediendo SAI](img/manga2.png)
+
+
 ---
 
 ## 🧩 Tasques a Realitzar
