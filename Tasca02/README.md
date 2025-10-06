@@ -66,3 +66,4 @@ L’objectiu d’aquesta tasca és aprendre a **avaluar les necessitats energèt
 
 ---
 
+- [Tornar pagina principal](../README.md)
