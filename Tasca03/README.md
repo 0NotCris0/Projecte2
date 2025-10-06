@@ -21,3 +21,4 @@ Investigueu com es pot fortificar l’accés al GRUB. És molt important que ind
 Configura la màquina virtual per tal de fortificar l’accés al GRUB
 Documenteu el procediment en un document (cal incloure imatges) per posteriorment pujar-lo al vostre repositori.
 
+- [Tornar pagina principal](../README.md)
