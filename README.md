@@ -17,23 +17,15 @@ i utilitzant **GitHub** per documentar i compartir el meu progrés.
 
 ---
 
+ - [Tasca02](Tasca02)
+ - [Tasca03](Tasca03)
+
 ## 🎯 Objectius del Projecte
 
 - Desenvolupar competències **tècniques i professionals**.  
 - Aprendre a **planificar, organitzar i documentar** projectes IT.  
 - Treballar en equip amb **rigurositat i esperit col·laboratiu**.  
 
----
-
-## 📁 Projectes Principals
-
-| Codi | Projecte | Descripció |
-|------|-----------|------------|
-| **P01** | Kanban | Organització i gestió de tasques amb Planner. |
-| **P02** | Documentació Tècnica | Afegir documentació al repositori GitHub. |
-| **P03** | Presentació de Hosting | Defensa del projecte davant del client. |
-
----
 
 ## 💡 Tasques Destacades
 
