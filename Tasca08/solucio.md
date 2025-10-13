@@ -181,3 +181,6 @@ El domini **mercatlocal.cat** reforça la **identitat de proximitat i comunitat*
 ### **Per què aquesta proposta és la millor opció**
 Aquesta configuració garanteix un **rendiment òptim per a WooCommerce multiusuari**, permet créixer sense interrupcions i assegura el **compliment de totes les normatives**.  
 És la **solució més equilibrada entre cost, seguretat i escalabilitat** per a un projecte digital de comerç local com **Mercat Local Online**.
+
+- [Torna al enunciat](README.md)
+
