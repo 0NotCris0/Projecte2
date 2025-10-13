@@ -128,3 +128,6 @@ Per a cadascun dels clients assignats, el grup haurà d’entregar els següents
 
 > 📘 **Referència:**  
 > Document **INSTRUCCIONS_SMIX2_P…** – guia base per a l’elaboració i lliurament de la tasca dins l’àmbit del mòdul d’Aplicacions Web.
+>
+> - [Tornar pagina principal](../README.md)
+
