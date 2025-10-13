@@ -92,4 +92,39 @@ Per tant:
 ### 🧠 **Objectius d’aprenentatge**
 
 - Detectar **requeriments tècnics i de negoci** d’un client web (capacitat, creixement, SLA, RGPD).  
-- Comparar **proveïdors i plans de hosting** amb criteris objectius: rendiment, seguretat
+- Comparar **proveïdors i plans de hosting** amb criteris objectius: rendiment, seguretat, suport i cost total.  
+- Dissenyar una **estratègia de domini** coherent amb la marca (TLD, SEO bàsic, coherència de DNS).  
+- Documentar i presentar una **proposta professional** completa (repositori GitHub + presentació P03).  
+- Enllaçar amb **P02: documentació tècnica** al repositori com a part del flux de treball del projecte.  
+
+> 🧩 *Aquest document forma part del conjunt d’instruccions “INSTRUCCIONS_SMIX2_P…” i s’alinea amb la metodologia de treball en projectes modulars.*
+
+---
+
+## **Lliurables (per a cada client)**
+
+Per a cadascun dels clients assignats, el grup haurà d’entregar els següents materials dins del repositori `T08/`:
+
+1. 🗂️ **Fitxa del client**  
+   - Seguint la plantilla proporcionada (dades, objectius, requeriments tècnics).  
+
+2. 📊 **Taula comparativa**  
+   - De **3 a 4 opcions de hosting + domini**, amb avantatges, inconvenients i preu mensual.  
+
+3. ✅ **Proposta final**  
+   - Pla recomanat amb justificació tècnica.  
+   - **Pla B d’escalabilitat** en cas d’augment de trànsit o nous requeriments.  
+
+4. 🧱 **Entorn creat**  
+   - Compte o espai de proves al proveïdor (preferentment sense cost).  
+   - Subdomini temporal o domini de proves actiu per validar configuracions.  
+
+5. 💾 **Evidències al repositori GitHub**  
+   - Captures de pantalla, configuració bàsica i càlcul de costos.  
+   - Entrada documentada dins el repositori (`README.md` o carpeta `docs/`).  
+   - Connexió directa amb **P01 / P02** del projecte (documentació i proves).  
+
+---
+
+> 📘 **Referència:**  
+> Document **INSTRUCCIONS_SMIX2_P…** – guia base per a l’elaboració i lliurament de la tasca dins l’àmbit del mòdul d’Aplicacions Web.
