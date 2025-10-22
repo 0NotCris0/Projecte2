@@ -19,6 +19,7 @@ i utilitzant **GitHub** per documentar i compartir el meu progrés.
 
  - [Tasca02](Tasca02)
  - [Tasca03](Tasca03)
+ - [Tasca08](Tasca08)
 
 ## 🎯 Objectius del Projecte
 
