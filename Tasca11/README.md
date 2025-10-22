@@ -172,4 +172,5 @@ Crea el fitxer:
 - Descripció dels ajustaments configurats.
 
 ---
-
+- [Tornar pagina principal](../README.md)
+- [Anar a la solucio](solucio.md)
